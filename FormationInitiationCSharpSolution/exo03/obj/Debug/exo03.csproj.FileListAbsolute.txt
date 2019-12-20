@@ -1,0 +1,7 @@
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\exo03\bin\Debug\exo03.exe.config
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\exo03\bin\Debug\exo03.exe
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\exo03\bin\Debug\exo03.pdb
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\exo03\obj\Debug\exo03.csprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\exo03\obj\Debug\exo03.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\exo03\obj\Debug\exo03.exe
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\exo03\obj\Debug\exo03.pdb

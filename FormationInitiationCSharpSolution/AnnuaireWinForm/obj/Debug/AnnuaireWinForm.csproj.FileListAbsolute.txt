@@ -1,0 +1,10 @@
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireWinForm\bin\Debug\AnnuaireWinForm.exe.config
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireWinForm\bin\Debug\AnnuaireWinForm.exe
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireWinForm\bin\Debug\AnnuaireWinForm.pdb
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireWinForm\obj\Debug\AnnuaireWinForm.csprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireWinForm\obj\Debug\AnnuaireWinForm.Properties.Resources.resources
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireWinForm\obj\Debug\AnnuaireWinForm.csproj.GenerateResource.cache
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireWinForm\obj\Debug\AnnuaireWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireWinForm\obj\Debug\AnnuaireWinForm.exe
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireWinForm\obj\Debug\AnnuaireWinForm.pdb
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireWinForm\obj\Debug\AnnuaireWinForm.Form1.resources

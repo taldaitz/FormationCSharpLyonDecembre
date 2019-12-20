@@ -1,0 +1,17 @@
+C:\Users\Styix\Documents\Visual Studio 2008\Projects\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe
+C:\Users\Styix\Documents\Visual Studio 2008\Projects\ADO.NET\ADO.NET\bin\Debug\ADO.NET.pdb
+C:\Users\Styix\Documents\Visual Studio 2008\Projects\ADO.NET\ADO.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Styix\Documents\Visual Studio 2008\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.exe
+C:\Users\Styix\Documents\Visual Studio 2008\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.pdb
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\ADO.NET\bin\Debug\ADO.NET.exe.config
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\ADO.NET\bin\Debug\ADO.NET.exe
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\ADO.NET\bin\Debug\ADO.NET.pdb
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\ADO.NET\bin\Debug\Google.Protobuf.dll
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\ADO.NET\bin\Debug\MySql.Data.dll
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\ADO.NET\bin\Debug\Google.Protobuf.xml
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\ADO.NET\bin\Debug\MySql.Data.xml
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\ADO.NET\obj\Debug\ADO.NET.csprojAssemblyReference.cache
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\ADO.NET\obj\Debug\ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\ADO.NET\obj\Debug\ADO.NET.csproj.CopyComplete
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\ADO.NET\obj\Debug\ADO.NET.exe
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\ADO.NET\obj\Debug\ADO.NET.pdb

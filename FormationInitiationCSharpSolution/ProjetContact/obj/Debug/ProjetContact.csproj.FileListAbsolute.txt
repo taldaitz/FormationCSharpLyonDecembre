@@ -1,0 +1,7 @@
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\ProjetContact\bin\Debug\ProjetContact.exe.config
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\ProjetContact\bin\Debug\ProjetContact.exe
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\ProjetContact\bin\Debug\ProjetContact.pdb
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\ProjetContact\obj\Debug\ProjetContact.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\ProjetContact\obj\Debug\ProjetContact.exe
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\ProjetContact\obj\Debug\ProjetContact.pdb
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\ProjetContact\obj\Debug\ProjetContact.csprojAssemblyReference.cache

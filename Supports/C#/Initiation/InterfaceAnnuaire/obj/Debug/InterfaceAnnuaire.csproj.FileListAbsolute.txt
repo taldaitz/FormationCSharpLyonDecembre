@@ -1,0 +1,10 @@
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\InterfaceAnnuaire\bin\Debug\InterfaceAnnuaire.exe.config
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\InterfaceAnnuaire\bin\Debug\InterfaceAnnuaire.exe
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\InterfaceAnnuaire\bin\Debug\InterfaceAnnuaire.pdb
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\InterfaceAnnuaire\obj\Debug\InterfaceAnnuaire.csprojAssemblyReference.cache
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\InterfaceAnnuaire\obj\Debug\InterfaceAnnuaire.Properties.Resources.resources
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\InterfaceAnnuaire\obj\Debug\InterfaceAnnuaire.csproj.GenerateResource.cache
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\InterfaceAnnuaire\obj\Debug\InterfaceAnnuaire.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\InterfaceAnnuaire\obj\Debug\InterfaceAnnuaire.exe
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\InterfaceAnnuaire\obj\Debug\InterfaceAnnuaire.pdb
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\InterfaceAnnuaire\obj\Debug\InterfaceAnnuaire.Form1.resources

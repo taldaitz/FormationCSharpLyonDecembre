@@ -1,0 +1,11 @@
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Annuaire\obj\Debug\Annuaire.csprojAssemblyReference.cache
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Annuaire\obj\Debug\Annuaire.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Annuaire\bin\Debug\Annuaire.exe.config
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Annuaire\bin\Debug\Annuaire.exe
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Annuaire\bin\Debug\Annuaire.pdb
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Annuaire\bin\Debug\Initiation.exe
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Annuaire\bin\Debug\Initiation.pdb
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Annuaire\bin\Debug\Initiation.exe.config
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Annuaire\obj\Debug\Annuaire.csproj.CopyComplete
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Annuaire\obj\Debug\Annuaire.exe
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Annuaire\obj\Debug\Annuaire.pdb

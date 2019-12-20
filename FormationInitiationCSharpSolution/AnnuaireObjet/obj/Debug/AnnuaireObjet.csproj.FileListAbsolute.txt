@@ -1,0 +1,14 @@
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\bin\Debug\AnnuaireObjet.exe.config
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\bin\Debug\AnnuaireObjet.exe
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\bin\Debug\AnnuaireObjet.pdb
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\bin\Debug\ProjetContact.exe
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\bin\Debug\ProjetContact.pdb
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\bin\Debug\ProjetContact.exe.config
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\obj\Debug\AnnuaireObjet.csprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\obj\Debug\AnnuaireObjet.Properties.Resources.resources
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\obj\Debug\AnnuaireObjet.csproj.GenerateResource.cache
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\obj\Debug\AnnuaireObjet.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\obj\Debug\AnnuaireObjet.csproj.CopyComplete
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\obj\Debug\AnnuaireObjet.exe
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\obj\Debug\AnnuaireObjet.pdb
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\AnnuaireObjet\obj\Debug\AnnuaireObjet.Form1.resources

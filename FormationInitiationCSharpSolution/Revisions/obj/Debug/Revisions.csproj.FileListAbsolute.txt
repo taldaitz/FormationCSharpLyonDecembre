@@ -1,0 +1,7 @@
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\Revisions\bin\Debug\Revisions.exe.config
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\Revisions\bin\Debug\Revisions.exe
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\Revisions\bin\Debug\Revisions.pdb
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\Revisions\obj\Debug\Revisions.csprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\Revisions\obj\Debug\Revisions.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\Revisions\obj\Debug\Revisions.exe
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\Revisions\obj\Debug\Revisions.pdb

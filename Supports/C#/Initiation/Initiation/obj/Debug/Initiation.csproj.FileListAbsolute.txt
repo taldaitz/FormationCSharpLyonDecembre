@@ -1,0 +1,7 @@
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Initiation\bin\Debug\Initiation.exe.config
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Initiation\bin\Debug\Initiation.exe
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Initiation\bin\Debug\Initiation.pdb
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Initiation\obj\Debug\Initiation.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Initiation\obj\Debug\Initiation.exe
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Initiation\obj\Debug\Initiation.pdb
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Initiation\obj\Debug\Initiation.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Base\bin\Debug\Base.exe.config
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Base\bin\Debug\Base.exe
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Base\bin\Debug\Base.pdb
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Base\obj\Debug\Base.csprojAssemblyReference.cache
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Base\obj\Debug\Base.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Base\obj\Debug\Base.exe
+C:\Users\Dawan\Documents\Formations\Net\C#\Initiation\Base\obj\Debug\Base.pdb

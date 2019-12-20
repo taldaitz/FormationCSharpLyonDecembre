@@ -1,0 +1,7 @@
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\MainExercices\bin\Debug\MainExercices.exe.config
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\MainExercices\bin\Debug\MainExercices.exe
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\MainExercices\bin\Debug\MainExercices.pdb
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\MainExercices\obj\Debug\MainExercices.csprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\MainExercices\obj\Debug\MainExercices.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\MainExercices\obj\Debug\MainExercices.exe
+C:\Users\Dawan\source\repos\FormationInitiationCSharpSolution\MainExercices\obj\Debug\MainExercices.pdb
